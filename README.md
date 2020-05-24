@@ -1,2 +1,2 @@
-# My-data-science-projects
-I am a beginner to data science and this is my first project.
+Loan payment defaulting prediction  using python.
+This project is formed part of IBM's Professional Data Science Certificate on Coursera. A semi guided project using python.
